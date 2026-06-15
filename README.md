@@ -27,6 +27,7 @@
 </div>
 ---
 
+
 🚀 About Me
 
 ```javascript
@@ -86,13 +87,11 @@ const rishabh = {
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 
-<br><br>
 
 ### State Management & APIs
 
 <img src="https://skillicons.dev/icons?i=redux,firebase" />
 
-<br><br>
 
 ### Design & Tools
 
