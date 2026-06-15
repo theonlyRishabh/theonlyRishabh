@@ -51,7 +51,7 @@ const rishabh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif…]()
+<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/chill-scene.gif…]()
 " width="100%" alt="Developer Workspace" />
 
 </div>
