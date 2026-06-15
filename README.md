@@ -25,7 +25,7 @@
 </table>
 
 </div>
----
+
 
 
 🚀 About Me
@@ -121,16 +121,6 @@ const rishabh = {
 <div align="center">
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyRishabh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theonlyRishabh&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
