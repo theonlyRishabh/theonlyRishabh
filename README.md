@@ -43,31 +43,12 @@ const rishabh = {
       "TypeScript",
       "JavaScript"
     ],
-    styling: [
-      "Tailwind CSS",
-      "HTML5",
-      "CSS3"
-    ],
-    graphics: [
-      "Three.js",
-      "WebGL",
-      "WebGPU",
-      "D3.js"
-    ]
-  },
-  currentlyLearning: [
-    "Advanced Three.js",
-    "WebGPU",
-    "Performance Optimization"
-  ]
-}
+    
 ```
 
-- 💻 Frontend Developer specializing in React & Next.js
-- 🎨 UI/UX Designer with professional certification
-- ⚡ Passionate about building performant and visually engaging web experiences
-- 🌱 Exploring Three.js, WebGL & WebGPU
-- 🤝 Open to Frontend Development opportunities
+-  Frontend Developer specializing in React & Next.js
+-  Exploring Three.js, WebGL & WebGPU
+-  Open to Frontend Development opportunities
 
 ---
 
