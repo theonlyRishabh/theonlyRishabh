@@ -6,7 +6,7 @@
 
 ### Frontend Developer • React • Next.js • TypeScript • UI/UX Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Designer;Three.js+%26+WebGL+Enthusiast;Building+Fast+%26+Beautiful+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;UI%2FUX+Designer;Three.js+%7C+WebGL+%7C+WebGPU;Building+Fast+%26+Beautiful+Web+Experiences" />
 
 <br/>
 
@@ -23,7 +23,7 @@ const rishabh = {
   role: "Frontend Developer",
   location: "Delhi NCR, India",
   education: "B.Tech CSE (2026)",
-  technologies: [
+  stack: [
     "React",
     "Next.js",
     "TypeScript",
@@ -41,104 +41,113 @@ const rishabh = {
 }
 ```
 
-- ⚡ Frontend Developer focused on building performant web applications
-- 🎨 UI/UX Designer with a strong eye for detail
+- 💻 Frontend Developer specializing in React & Next.js
+- 🎨 UI/UX Designer with professional certification
+- ⚡ Passionate about performance optimization and modern web technologies
 - 🌱 Exploring Three.js, WebGL & WebGPU
-- 💡 Passionate about creating interactive digital experiences
 - 🤝 Open to Frontend Development opportunities
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/dev-room.gif" width="100%" alt="Developer Workspace" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 
-### Styling & Design
+### State Management & APIs
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+<img src="https://skillicons.dev/icons?i=redux,firebase" />
 
-### State Management
+### Design & Tools
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
-### Graphics & Performance
+### Advanced Web Graphics
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge)
-![WebGPU](https://img.shields.io/badge/WebGPU-4285F4?style=for-the-badge)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js)
+<img src="https://skillicons.dev/icons?i=threejs" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=theonlyRishabh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyRishabh&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=theonlyRishabh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyRishabh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=theonlyRishabh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyRishabh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=theonlyRishabh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=theonlyRishabh&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theonlyRishabh&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theonlyRishabh&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://rish4bhportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/rishabh-s-606912275">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rishabhgg2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/theonlyRishabh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -146,6 +155,10 @@ const rishabh = {
 
 ### ⚡ Building interfaces that feel as good as they look.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0ea5e9,100:8b5cf6"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0ea5e9,100:8b5cf6" />
 
 </div>
