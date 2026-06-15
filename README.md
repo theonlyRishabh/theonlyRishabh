@@ -42,8 +42,7 @@ const rishabh = {
       "Next.js",
       "TypeScript",
       "JavaScript"
-    ],
-    
+    ],    
 ```
 
 -  Frontend Developer specializing in React & Next.js
