@@ -26,7 +26,8 @@
 
 </div>
 ---
-## 🚀 About Me
+
+🚀 About Me
 
 ```javascript
 const rishabh = {
@@ -97,7 +98,6 @@ const rishabh = {
 
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
-<br><br>
 
 ### Advanced Web Graphics
 
