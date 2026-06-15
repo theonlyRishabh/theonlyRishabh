@@ -18,7 +18,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/chill scene.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/chill scene.gif" width="360"/>
 
 </td>
 </tr>
