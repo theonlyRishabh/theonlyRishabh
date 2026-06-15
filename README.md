@@ -71,13 +71,6 @@ const rishabh = {
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/dev-room.gif" width="100%" alt="Developer Workspace"/>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
