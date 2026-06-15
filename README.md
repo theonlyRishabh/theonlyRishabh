@@ -25,9 +25,7 @@
 </table>
 
 </div>
-
 ---
-
 ## 🚀 About Me
 
 ```javascript
@@ -43,13 +41,11 @@ const rishabh = {
       "TypeScript",
       "JavaScript"
     ],
-
     styling: [
       "Tailwind CSS",
       "HTML5",
       "CSS3"
     ],
-
     graphics: [
       "Three.js",
       "WebGL",
@@ -57,7 +53,6 @@ const rishabh = {
       "D3.js"
     ]
   },
-
   currentlyLearning: [
     "Advanced Three.js",
     "WebGPU",
