@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d" src="https://github.com/user-attachments/assets/b7056399-3fa9-4f6b-adc7-de25d322954c" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:8b5cf6&text=Rishabh&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 
@@ -51,7 +51,8 @@ const rishabh = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/dev-room.gif" width="100%" alt="Developer Workspace" />
+<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif…]()
+" width="100%" alt="Developer Workspace" />
 
 </div>
 
