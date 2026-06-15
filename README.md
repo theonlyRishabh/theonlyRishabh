@@ -18,6 +18,10 @@
 
 ## 🚀 About Me
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/theonlyRishabh/theonlyRishabh/main/assets/chill-scene.gif" width="300"/>
+</div>
+
 ```javascript
 const rishabh = {
   role: "Frontend Developer",
