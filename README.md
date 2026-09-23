@@ -123,7 +123,7 @@ const rishabh = {
 
 <div align="center">
 
-<a href="https://rish4bhportfolio.netlify.app">
+<a href="https://rish4bh.is-a.dev">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
